@@ -1,0 +1,22 @@
+values of coefficients of 2th order polynomial are
+0.785398
+0.202839
+-0.0315158
+values of coefficients of 4th order polynomial are
+0.785398
+0.293739
+-0.0727197
+0.0134936
+-0.00200469
+values of coefficients of 10th order polynomial are
+0.785398
+0.394791
+-0.146081
+0.0424358
+-0.00999904
+0.00193357
+-0.000303025
+3.59793e-05
+-2.29412e-06
+-2.76347e-07
+1.35163e-07
